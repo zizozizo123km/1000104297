@@ -1,0 +1,16 @@
+{
+  "name": "bac-dz-ai-server",
+  "version": "1.0.0",
+  "description": "Bac DZ AI — Socket.io Signaling Server",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "node index.js"
+  },
+  "dependencies": {
+    "socket.io": "^4.7.4"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}
